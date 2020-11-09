@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MiPetagram</string>
+    <string name="pnombre">DUKI</string>
+    <string name="plikes">0</string>
+    <string name="menu_about">About</string>
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_acercade">Acerca de</string>
+    <string name="menu_favoritos">Favoritos</string>
+    <string name="nombre_desarrollador">GOMEZ CHRISTIAN ALBERTO</string>
+    <string name="estudiante_desarrollador">INGENIERIA EN SISTEMAS DE INFORMACION</string>
+    <string name="correo_desarrollador">gomezchristian.a@gmail.com</string>
+    <string name="sobremi_desarrollador">TRABAJO COMO PROGRAMADOR (JSE - JEE). BUENO AHORA APRENDIENDO ALGO DE ANDROID :) SLDS!</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_correo">Correo</string>
+    <string name="hint_mensaje">Mensaje</string>
+    <string name="btn_enviar_comentario">Enviar Comentario</string>
+    <string name="titulo_desarrollador">DESARROLLADOR</string>
+    <string name="titulo_contacto">CONTACTO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

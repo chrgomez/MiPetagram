@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nombre_mascota">18dp</dimen>
+    <dimen name="like_mascota">12dp</dimen>
+    <dimen name="corner_radius_cardview">4dp</dimen>
+    <dimen name="altura_tarjeta">230dp</dimen>
+    <dimen name="nombre_cardview">17sp</dimen>
+    <dimen name="top">20dp</dimen>
+    <dimen name="left">10dp</dimen>
+    <dimen name="elevacion_actionbar">4dp</dimen>
+</resources>
